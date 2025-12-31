@@ -1,0 +1,35 @@
+# ==================== C# WinForm 通用忽略规则 ====================
+# 编译输出目录（核心，必须忽略）
+bin/
+obj/
+
+# Visual Studio 配置/缓存文件
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 编译生成的可执行文件/库
+*.exe
+*.dll
+*.pdb
+*.manifest
+*.cache
+*.ilk
+
+# 测试/临时文件
+TestResults/
+_ReSharper*/
+*.bak
+*.tmp
+*.zip
+
+# NuGet 包（可选：如果项目用 NuGet，建议忽略 packages，只保留 packages.config）
+packages/
+!packages/repositories.config
+
+# 发布/部署文件
+Publish/
+Release/
+Debug/
