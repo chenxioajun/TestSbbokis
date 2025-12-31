@@ -185,7 +185,7 @@
             // 
             label31.BackColor = Color.Transparent;
             label31.Font = new Font("宋体", 12F, FontStyle.Regular, GraphicsUnit.Point, 134);
-            label31.Location = new Point(825, 5);
+            label31.Location = new Point(824, 5);
             label31.Name = "label31";
             label31.Size = new Size(254, 35);
             label31.TabIndex = 15;
