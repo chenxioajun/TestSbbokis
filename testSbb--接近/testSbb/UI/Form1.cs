@@ -68,7 +68,7 @@ namespace testSbb
         (textBox6.Text, textBox6)
              };
         }
-        //测试给i他
+        //测试给i
         public Form1()
         {
             InitializeComponent();
